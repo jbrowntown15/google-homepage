@@ -1,0 +1,172 @@
+/* Fake Google.css*/
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+#container {
+  width: 590px;
+  margin: 140px auto 0;
+  text-align: center;
+}
+
+h1#logo {
+  height: 95px;
+  width: 269px;
+  background:  url('images/google.png') top left no-repeat;
+  background-size: 100%;
+  text-indent: -9999px;
+  margin: 0 auto;
+}
+
+input[type="text"] {
+  width: 576px;
+  padding: 7px;
+  margin: 10px 0 25px;
+  border: outset 2px #ccc;
+  font-size: 16px;
+}
+
+input[type="text"]:hover {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+}
+
+input[type="submit"] {
+  background: #f1f1f1;
+  color: #757575;
+  border: outset 2px #ddd;
+  border-radius: 2px;
+  padding: 10px 15px;
+  font-size: 13px;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  margin: 5px 5px 25px 5px;
+}
+
+input[type="submit"]:hover {
+  cursor: pointer;
+  border: 1px solid gray;
+}
+
+small.note  {
+  font-size: 13px;
+  font-family: arial, sans-serif;
+
+}
+
+small.note a:link ,
+small.note a:visited{
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: blue;
+}
+
+span.multicolor {
+  color:pink;
+}
+
+nav#header {
+  text-align: right;
+  padding: 20px;
+}
+
+nav#header ul li,
+footer nav ul li  {
+  display: inline;
+}
+
+nav#header ul li a:link ,
+nav#header ul li a:visited,
+footer nav ul li a:link,
+footer nav ul li a:visited {
+  color: #555;
+  text-decoration: none;
+  padding: 10px;
+}
+
+nav#header ul li a:hover,
+footer nav ul li a:hover,
+small.note a:hover {
+  text-decoration: underline;
+}
+
+footer nav {
+  padding: 20px;
+}
+
+footer {
+  background: #eee;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer nav ul {
+  float: left;
+}
+
+footer nav ul.right-links {
+  float: right;
+  text-align: right;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  progress
